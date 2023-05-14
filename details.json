@@ -1,0 +1,26 @@
+[
+    {
+        
+        "img":"https://img.freepik.com/free-vector/realistic-vector-icon-illustration-dental-clinic-brocken-tooth-with-magnifying-glass_134830-1759.jpg?w=740&t=st=1683821027~exp=1683821627~hmac=43fe3c8877514239a543db7aef9fa530f5a9761b0c7c42374d01fdc0dab95ece",
+        "name":"Dentist",
+        "fees":"$100"
+    },
+    {
+      
+        "img":"https://img.freepik.com/free-vector/hand-drawn-urology-illustration_23-2149707560.jpg?w=740&t=st=1683821222~exp=1683821822~hmac=3d096759ac235f98736900bc6b2671445dbf4e9c082e2f4e0b714b8c5105450a",
+        "name":"Urology",
+        "fees":"$300"
+    },
+    {
+       
+        "img":"https://img.freepik.com/premium-photo/luminous-fluorescent-brain-hologram-digital-mindset-technological-future_666746-1350.jpg?w=740",
+        "name":"Neurology",
+        "fees":"$450"
+    },
+    {
+        
+        "img":"https://img.freepik.com/free-photo/3d-render-male-figure-with-close-up-shoulder-joint_1048-6240.jpg?w=740&t=st=1683821374~exp=1683821974~hmac=441b9b660bb2f88c9df83a80ded4b905559afc92d74a21f3fb664238828d37c7",
+        "name":"Orthopedic",
+        "fees":"$250"
+    }
+]
